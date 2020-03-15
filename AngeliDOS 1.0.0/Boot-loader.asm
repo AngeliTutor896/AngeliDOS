@@ -1,6 +1,7 @@
-; AtieDOS 2 and AngeliDOS.x< Bootloader
-; Copyright (c) 2020 AngeliTutor and AtieP & Midn. All rights reserved.
+; AtieDOS 2.x< and AngeliDOS 1.x< Bootloader
+; Copyright (c) 2020 AngeliSoftware, AtieSoftware & Midn. All rights reserved.
 ; Licensed under the 3-clause BSD License. See it here:
+; Bootsector by AtieSoftWare & Midn.
 ; https://github.com/AtieP/AtieDOS/blob/master/LICENSE
 
 bits 16
