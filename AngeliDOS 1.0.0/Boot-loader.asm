@@ -1,3 +1,8 @@
+; AtieDOS 2.x< Bootloader
+; Copyright (c) 2020 AtieSoftware & Midn. All rights reserved.
+; Licensed under the 3-clause BSD License. See it here:
+; https://github.com/AtieP/AtieDOS/blob/master/LICENSE
+
 bits 16
 org 0x7c00
 
