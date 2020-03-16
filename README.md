@@ -1,2 +1,2 @@
 # AngeliDOS
-My Operative System
+My Operating System
